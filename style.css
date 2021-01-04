@@ -14,8 +14,19 @@ h1{
 .top-hero{
     width: 40%;
     float: left;
-    margin-left: 3%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
+
 .top-hero img{
     width: 100%;
+}
+
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 630px;
 }
