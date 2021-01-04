@@ -41,3 +41,31 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-ex{
+    box-shadow: 10px 10px 40px grey;
+    height: 80%;
+    border-radius: 10px;
+    background-color: white;
+}
+.experien-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#ex-first{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#ex-second{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.ex-h2{
+    margin-left: 76px;
+}
+footer p{
+    font-size: 12px;
+    text-align: center;
+}
